@@ -3,7 +3,7 @@
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
 </h1>
 
-Check out this site at <a href="https://lukec00per.github.io/docusaurus-site-sandbox/">https://lukec00per.github.io/docusaurus-site-sandbox/</a>!
+Check out this deployed sandbox site at <a href="https://lukec00per.github.io/docusaurus-site-sandbox/">here</a>!
 
 # Website
 
