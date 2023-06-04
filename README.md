@@ -3,6 +3,8 @@
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
 </h1>
 
+Check out this site at <a href="https://lukec00per.github.io/docusaurus-site-sandbox/"></a>!
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
