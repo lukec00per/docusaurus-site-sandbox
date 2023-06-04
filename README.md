@@ -1,3 +1,8 @@
+<h1 align="center">
+  <p align="center">Docusaurus</p>
+  <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
+</h1>
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
